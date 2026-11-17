@@ -1,6 +1,6 @@
 # Browser
 
-**📱 Android:** [download the latest version (APK)](https://github.com/amarhusika/browser/releases/download/v1.1/browser.apk)
+**📱 Android:** [download the latest version (APK)](https://github.com/amarhusika/browser/releases/download/v1.0/browser.apk)
 
 A tiny, fast Android browser built on the system WebView: no AppCompat, no
 Material library, no tracking. The whole app is only ~50 KB. Made to use as little
