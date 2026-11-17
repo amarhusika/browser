@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light: whitesmoke / gray / white -->
+    <color name="chrome">#FFF5F5F5</color>
+    <color name="field">#FFFFFFFF</color>
+    <color name="field_stroke">#FFE3E3E3</color>
+    <color name="text">#FF262626</color>
+    <color name="hint">#FF8C8C8C</color>
+    <color name="icon">#FF5F5F5F</color>
+    <color name="accent">#FF7A7A7A</color>
+    <color name="selected">#FF4285F4</color>
+    <color name="on_selected">#FFFFFFFF</color>
+</resources>

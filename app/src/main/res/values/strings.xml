@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Browser</string>
+    <string name="hint">Search or type URL</string>
+    <string name="menu">Menu</string>
+    <string name="home">Home</string>
+    <string name="tabs">Switch tabs</string>
+    <string name="new_tab">New tab</string>
+    <string name="close">Close</string>
+    <string name="close_all">Close all tabs</string>
+    <string name="share">Share</string>
+    <string name="history">History</string>
+    <string name="no_history">No history</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="clear">Clear</string>
+    <string name="cleared">History, cookies and cache cleared</string>
+    <string name="downloading">Downloading %1$s</string>
+    <string name="cant_download">This file can\'t be downloaded</string>
+    <string name="no_app">No app can open this link</string>
+</resources>
